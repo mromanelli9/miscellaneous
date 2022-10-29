@@ -4,6 +4,8 @@ Miscellaneous scripts, snippets, tools I've written and don't find place anywher
 
 ## Scripts
 
+- [download-keepassxc](./download-keepassxc.sh): download latest [KeePassXC](https://keepassxc.org/) release
+    from GitHub and check SHA-256 digest.  `bash`
 - [sprite-image](./sprite_image.py): create a [sprite](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS)
     image (rectangular) from a set of images. `python`  
 - [url-downloader](./url_downloader.py): download web pages from a list of URLs.
