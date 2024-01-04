@@ -10,3 +10,4 @@ Miscellaneous scripts, snippets, tools I've written and don't find place anywher
     image (rectangular) from a set of images. `python`  
 - [url-downloader](./url_downloader.py): download web pages from a list of URLs.
     Written with `asyncio` and `aiohttp`. `python`
+- [hacker-news](./hacker-news.js): get the URL of a comment posted on Hacker News. `javascript`
